@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include "add.c"
+#include "subtract.c"
+
 int main()
 {
 	int a = 0, b = 0, ch = 0;
